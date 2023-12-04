@@ -19,7 +19,7 @@ Currently, I am actively pursuing a M.A in Data Science, aiming to seamlessly in
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Jean-Bertrand-Subika)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/s-j-bertrand)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-j-bertrand/)
 [![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/subika.jean.bertrand/vizzes)
 ## 📈 Summary of my journey
 🧠 B.Sc in Finance graduate with honors in 2021
